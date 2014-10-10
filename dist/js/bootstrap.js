@@ -23,7 +23,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
 
   function transitionEnd() {
     var el = document.createElement('bootstrap')
-
+    // herp, derp, edited a generated file!
     var transEndEventNames = {
       WebkitTransition : 'webkitTransitionEnd',
       MozTransition    : 'transitionend',
