@@ -31,6 +31,8 @@
     var val  = $el.is('input') ? 'val' : 'html'
     var data = $el.data()
 
+
+
     state = state + 'Text'
 
     if (data.resetText == null) $el.data('resetText', $el[val]())
