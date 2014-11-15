@@ -28,7 +28,7 @@
     this.checkPosition()
   }
 
-  Affix.VERSION  = '3.3.1'
+  Affix.VERSION  = ;;
 
   Affix.RESET    = 'affix affix-top affix-bottom'
 
